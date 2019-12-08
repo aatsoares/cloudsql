@@ -7,4 +7,4 @@ The Ids will be generated for each instance. The updates need to be run for each
 
 #About Code Files
 
-tutorial.py: Python code with CloudSQL (MySQL) database
+app.py: Python code with CloudSQL (MySQL) database
