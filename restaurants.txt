@@ -1,0 +1,8 @@
+{"name":"Pirates of Grill","cuisine":"BBQ","region":"noida","location":"sector 18"}
+{"name":"Barbeque Nation","cuisine":"BBQ","region":"noida","location":"sector 18"}
+{"name":"Pizza Hut","cuisine":"Fast Food","region":"Ghaziabad","location":"vaishali"}
+{"name":"Dominos","cuisine":"Fast Food","region":"Ghaziabad","location":"Kaushambi"}
+{"name":"Haldiram","cuisine":"Multi-cuisine","region":"Ghaziabad","location":"Kaushambi"}
+{"name":"Bikaner","cuisine":"Multi-cuisine","region":"Ghaziabad","location":"Kaushambi"}
+{"name":"Bikaner","cuisine":"Multi-cuisine","region":"Noida","location":"sector 18"}
+{"name":"Taj","cuisine":"Multi-cuisine","region":"Delhi","location":"CP"}
